@@ -4,7 +4,10 @@ body{
   margin-top: 50px;
 }
 
-
+.App{
+  max-width: 960px;
+  margin: 0 auto;
+}
 
 
 .App footer{
