@@ -1,9 +1,18 @@
-.App h1{
-  text-align: center;
-  color: green;
+body{
+  background: linear-gradient(179.4deg, rgb(253, 240, 233) 2.2%, rgb(255, 194, 203) 96.2%);
+  
+  margin-top: 50px;
 }
+
+
+
 
 .App footer{
   text-align: center;
   margin: 30px 0;
+  color: #800020;
+}
+
+.App a{
+  color: white
 }

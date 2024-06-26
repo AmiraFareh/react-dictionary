@@ -1,4 +1,4 @@
-
+import "./Synonyms.css"
 
 export default function Synonyms(props){
     if(props.synonyms){

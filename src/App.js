@@ -6,14 +6,13 @@ function App() {
     <div className="App">
       <div className='container'>
 
-      <header className="App-header">
-       <h1>Dictionary</h1>
-      </header>
+      
       <main>
-        <Dictionary/>
+        <Dictionary defaultKeyword = "sunset"/>
       </main>
       <footer>
-        <small>Coded by Amira Fareh</small>
+      This project was created by <a href="https://amira-fareh-portfolio.netlify.app" target='_blank' rel="noreferrer">Amira fareh</a> and is 
+      <a href='https://github.com/AmiraFareh/react-dictionary' target='_blank' rel="noreferrer"> open-sourced on GitHub. </a>
       </footer>
       </div>
     </div>
